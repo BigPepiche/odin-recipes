@@ -1,0 +1,18 @@
+body{
+
+    background-color: #594545;
+    color: #fff8ea;
+    text-align: center;
+    font-size: large;
+}
+
+
+img{
+
+    height: auto;
+    width: 110%;
+    vertical-align: middle;
+    margin-left: -4%;
+    margin-right: 4%;
+    opacity: 0.5;   
+}
