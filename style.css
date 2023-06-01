@@ -2,17 +2,40 @@ body{
 
     background-color: #594545;
     color: #fff8ea;
-    text-align: center;
-    font-size: large;
+    
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(16, 13, 20);
 }
 
+h1{
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+
+ul{
+    align-items: center;
+}
+
+
+
+p{
+    text-align: justify, center;
+}
 
 img{
 
     height: auto;
-    width: 110%;
+    width: 80%;
     vertical-align: middle;
-    margin-left: -4%;
-    margin-right: 4%;
+    margin-left: 10%;
+    margin-right: auto;
     opacity: 0.5;   
+}
+
+a{
+    color: rgb(75, 43, 80)
 }
